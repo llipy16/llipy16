@@ -1,4 +1,8 @@
 ### Hi there 👋
+1. sou Fellipy
+2. sou real?
+3. não sou real? é algo a se questionar
+
 
 <!--
 **llipy16/llipy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
